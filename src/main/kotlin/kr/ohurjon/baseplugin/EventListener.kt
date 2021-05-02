@@ -11,7 +11,7 @@ class EventListener : Listener {
 
     @EventHandler
     fun onEvent(event: Event) {
-        //TODO
+
     }
 
 }
